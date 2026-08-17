@@ -31,10 +31,6 @@
   - **High Efficiency**: CPU only processes when button is pressed, saving resources.
 
 ## 应用场景 | Applications
-- 实时控制系统
-- 多任务处理界面
-- 低功耗设备按键
-
-Real-time control system
-Multi-tasking interface
-Low-power device buttons
+- 实时控制系统 | Real-time control system
+- 多任务处理界面 | Multi-tasking interface  
+- 低功耗设备按键 | Low-power device buttons
